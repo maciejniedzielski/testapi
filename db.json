@@ -1,0 +1,12 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "price": "hello",
+      "description": "asdasd",
+      "variant": 1,
+      "categoryId": 2,
+      "size": 3
+    }
+  ],
+}
